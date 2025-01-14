@@ -9,7 +9,7 @@
 
 ## Overview of the Project
 
-### Project: MOVIES APP
+### Project: CHAT APP
 
 ### Objective:
 The Chat App aims to provide users with a seamless and interactive platform for real-time communication. With an elegant interface, the app enhances user experience by enabling instant messaging, user authentication, and private chat rooms.
